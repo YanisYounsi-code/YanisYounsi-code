@@ -29,7 +29,7 @@
 |---|---|---|
 | [**Ground Truth**](https://github.com/YanisYounsi-code/Ground-Truth-un-RAG-qui-ne-ment-pas) | Assistant de questions-réponses sur 130 rapports publics (Insee, Cour des comptes) : recherche dans les documents, citation de la page source et abstention quand aucune réponse fiable n’est trouvée. *Challenge Intelligence Lab, ECE Paris (en cours).* | Python, RAG |
 | [**Festival du Rire de Deauville**](https://github.com/YanisYounsi-code/Deauville-festival) | Application de gestion d’un festival avec API REST, interface en ligne de commande et page d’administration. Conception orientée objet et 66 tests automatisés. | Python, FastAPI, Pytest |
-| **SmartEGrid** | Projet académique (ECE Paris) autour d’un environnement connecté et de la gestion intelligente de la consommation d’énergie. | — |
+| [**SmartEGrid**](https://github.com/YanisYounsi-code/SmartEGrid) | Projet académique (ECE Paris) autour d’un environnement connecté et de la gestion intelligente de la consommation d’énergie. ( en cours de développement ) | Python, TypeScript, SQL |
 | **Surveillance par détection de mouvement** | Projet de fin d’études de licence : application web qui détecte les mouvements et alerte l’utilisateur. | PHP |
 
 ---

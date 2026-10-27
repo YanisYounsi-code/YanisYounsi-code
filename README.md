@@ -15,11 +15,11 @@
 
 ### À propos
 
-- 🎓 En MSc Intelligence Artificielle à l’**ECE Paris**, après une licence en informatique et un Master 1 en systèmes informatiques (Université Mouloud Mammeri, Tizi Ouzou).
-- 🤖 Je m’intéresse à l’IA appliquée, à l’exploitation de données et aux applications **fiables et testées**.
-- 🔭 En ce moment : je construis un assistant **RAG** qui cite ses sources et sait dire « je ne sais pas ».
-- 📍 Asnières-sur-Seine (92) · Français, anglais, arabe, kabyle.
-- 💼 Je recherche un **stage en IA / Data à partir d’avril 2027**.
+- En MSc Intelligence Artificielle à l’**ECE Paris**, après une licence en informatique et un Master 1 en systèmes informatiques (Université Mouloud Mammeri, Tizi Ouzou).
+- Je m’intéresse à l’IA appliquée, à l’exploitation de données et aux applications **fiables et testées**.
+- En ce moment : je construis un assistant **RAG** qui cite ses sources et sait dire « je ne sais pas ».
+- Asnières-sur-Seine (92) · Français, anglais, arabe, kabyle.
+- Je recherche un **stage en IA / Data à partir d’avril 2027**.
 
 ---
 

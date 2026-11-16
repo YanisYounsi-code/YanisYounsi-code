@@ -17,7 +17,7 @@
 
 - En MSc Intelligence Artificielle à l’**ECE Paris**, après une licence en informatique et un Master 1 en systèmes informatiques (Université Mouloud Mammeri, Tizi Ouzou).
 - Je m’intéresse à l’IA appliquée, à l’exploitation de données et aux applications **fiables et testées**.
-- En ce moment : je construis un assistant **RAG** qui cite ses sources et sait dire « je ne sais pas ».
+- Dernier projet : **Ground Truth**, un assistant **RAG** qui cite la page de sa source et sait dire « je ne sais pas » (piscine Intelligence Lab, ECE Paris).
 - Asnières-sur-Seine (92) · Français, anglais, arabe, kabyle.
 - Je recherche un **stage en IA / Data à partir d’avril 2027**.
 
@@ -27,10 +27,9 @@
 
 | Projet | Description | Stack |
 |---|---|---|
-| [**Ground Truth**](https://github.com/YanisYounsi-code/Ground-Truth-un-RAG-qui-ne-ment-pas) | Assistant de questions-réponses sur 130 rapports publics (Insee, Cour des comptes) : recherche dans les documents, citation de la page source et abstention quand aucune réponse fiable n’est trouvée. *Challenge Intelligence Lab, ECE Paris (en cours).* | Python, RAG |
+| [**Ground Truth**](https://github.com/YanisYounsi-code/Ground-Truth-un-RAG-qui-ne-ment-pas) | Assistant de questions-réponses sur 130 rapports publics (Insee, Cour des comptes, 3 292 pages) qui cite la page exacte de sa source et répond « INTROUVABLE » sans preuve. OCR des scans, recherche hybride (BM25 codé à la main + bge-m3) avec reranking, vérification des chiffres de la réponse. Score de validation **+0,38** (contre +0,23 pour un système qui s’abstient toujours), hallucinations réduites de 36 % à 22 %. *Piscine Intelligence Lab, ECE Paris, nov. 2026.* | Python, PyTorch, Transformers, PyMuPDF, Tesseract |
+| [**Laravel Vidéosurveillance**](https://github.com/YanisYounsi-code/laravel-videosurveillance) | Application web de vidéosurveillance : gestion de caméras IP, flux en direct, enregistrement d’extraits vidéo avec FFmpeg et vidéothèque, derrière une authentification complète. Projet de fin d’études de licence, réalisé en binôme, avec son [mémoire](https://github.com/YanisYounsi-code/laravel-videosurveillance/blob/main/docs/memoire/Memoire_videosurveillance.pdf). | PHP, Laravel, Tailwind CSS, FFmpeg, Pest |
 | [**Festival du Rire de Deauville**](https://github.com/YanisYounsi-code/Deauville-festival) | Application de gestion d’un festival avec API REST, interface en ligne de commande et page d’administration. Conception orientée objet et 66 tests automatisés. | Python, FastAPI, Pytest |
-| [**SmartEGrid**](https://github.com/YanisYounsi-code/SmartEGrid) | Projet académique (ECE Paris) autour d’un environnement connecté et de la gestion intelligente de la consommation d’énergie. ( en cours de développement ) | Python, TypeScript, SQL |
-| **Surveillance par détection de mouvement** | Projet de fin d’études de licence : application web qui détecte les mouvements et alerte l’utilisateur. | PHP |
 
 ---
 
@@ -49,7 +48,12 @@
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-14304E?style=flat-square" alt="Machine Learning">
   <img src="https://img.shields.io/badge/RAG-007387?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Tesseract%20OCR-3D7EBB?style=flat-square" alt="Tesseract OCR">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest">
   <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" alt="Ruff">
   <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white" alt="uv">
@@ -59,6 +63,7 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle PL/SQL">
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
